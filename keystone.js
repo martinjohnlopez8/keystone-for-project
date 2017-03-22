@@ -13,9 +13,9 @@ keystone.init({
 	'name': 'notesit',
 	'brand': 'notesit',
 
-	'sass': 'public',
+	'css': 'public',
 	'static': 'public',
-	'favicon': 'public/favicon.ico',
+	'favicon': 'public/images/favicon.ico',
 	'views': 'templates/views',
 	'view engine': 'pug',
 
